@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-EC2 instance
+Deployment can be local blah
