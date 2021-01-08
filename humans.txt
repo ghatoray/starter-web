@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Harry> -- <Data Scientist> -- <something_twittery>
 
 # THANKS
 
