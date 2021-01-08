@@ -17,3 +17,7 @@ as the header says...
 ## Nothing
 
 important? nope
+
+### Copyright
+
+2021 Git.Training.
